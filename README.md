@@ -1,7 +1,6 @@
-pyrocms_field_type_indian_state
+PyroCMS Field Type - Indian State
 ===============================
 
-* Description
 A simple field type, based on State field type, allowing you to chose from states of India. 
 
 * Installation 
